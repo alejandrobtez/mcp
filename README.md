@@ -1,4 +1,4 @@
-# Mi primer cliente MCP con el Agent Framework de Microsoft
+# MCP con el Agent Framework de Microsoft
 
 ## ¿Qué hemos hecho aquí?
 
