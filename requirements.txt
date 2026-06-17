@@ -1,0 +1,6 @@
+agent-framework
+agent-framework-openai
+mcp
+fastmcp
+python-dotenv
+azure-functions
