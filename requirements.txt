@@ -1,5 +1,0 @@
-mcp
-httpx
-agent-framework
-agent-framework-foundry
-azure-identity
